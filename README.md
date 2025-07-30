@@ -296,7 +296,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 **Made with ❤️ and Python**
 
-[![Stars](https://img.shields.io/github/stars/yourusername/virtual-drag-drop?style=social)](https://github.com/yourusername/virtual-drag-drop/stargazers)
-[![Forks](https://img.shields.io/github/forks/yourusername/virtual-drag-drop?style=social)](https://github.com/yourusername/virtual-drag-drop/network/members)
+[![Stars](https://img.shields.io/github/stars/jessica-murare/virtual-drag-drop?style=social)](https://github.com/yourusername/virtual-drag-drop/stargazers)
+[![Forks](https://img.shields.io/github/forks/jessica-murare/virtual-drag-drop?style=social)](https://github.com/yourusername/virtual-drag-drop/network/members)
 
 </div>
