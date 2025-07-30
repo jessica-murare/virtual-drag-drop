@@ -29,7 +29,7 @@ A computer vision project that enables virtual drag-and-drop functionality using
 <div align="center">
 
 <!-- Replace with your actual demo GIF -->
-![Virtual Drag Drop Demo](https://via.placeholder.com/600x400/000000/FFFFFF?text=Demo+GIF+Here)
+![Virtual Drag Drop Demo](virtual_drag_drop.png)
 
 *Drag rectangles around the screen using simple hand gestures!*
 
